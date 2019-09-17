@@ -1,0 +1,4 @@
+﻿  Elevator1.cpp
+C:\Users\mitchell.quigg\source\repos\Elevator\Elevator1\Elevator1\Elevator1.cpp(22,34): warning C4474:  'printf' : too many arguments passed for format string
+C:\Users\mitchell.quigg\source\repos\Elevator\Elevator1\Elevator1\Elevator1.cpp(22,34): message :  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Elevator1.vcxproj -> C:\Users\mitchell.quigg\source\repos\Elevator\Elevator1\Debug\Elevator1.exe
